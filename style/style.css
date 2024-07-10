@@ -1,0 +1,132 @@
+.title{
+    text-align: center;
+    
+    background-image: url(../B10A1-Challenge-Begins/assets/Hero-bg.png);
+    padding: 100px;
+    background-position: center ,bottom;
+    
+    }
+    .banner{
+        text-align: center;
+        padding: 0px 40px ;
+    }
+    .about{
+        background-color: #FFFFFF;
+        border-image-width: auto;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        gap: 5px;
+        padding: 48px;
+    }
+    .row1{
+        text-align: center;
+        justify-content: space-between;
+    }
+    .button{
+        color: white;
+        border-radius: 5px;
+        background:  #ccdbff;
+        border: none;
+    }
+    .button a{
+        text-decoration: none;
+    }
+    .row2{
+        display: flex;
+        text-align: center;
+        padding: 5px;
+        justify-content:center ;
+        gap: 5px;
+        padding: 48px;
+    }
+    .btn1{
+        display: inline-block;
+        padding: 10px;
+        background-color: #FFFFFF;
+        color: black;
+    }
+    .button2{
+    display: inline-block;
+    padding: 10px;
+    background-color: #FFFFFF;
+    color: black;
+    }
+    .btn3{
+        display: inline-block;
+        padding: 10px;
+        background: white;
+        color: black;
+    }
+    .sec1{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        margin-top: 50px;
+    }
+    .blog{
+        display: flex;
+        padding: 5px;
+        text-align: center;
+        justify-content: center;
+        gap: 50px;
+        box-shadow: opx 6px 50px 0px;
+        margin-top: 50px;
+    }
+    .blog1{
+        background-color: #e8cec8;
+    }
+    .blog2{
+        background-color: #EBEBEB;
+    }
+    .blog3{
+        background-color: #f3eaad;
+    }
+    .h4{
+        margin-top:  50px ;
+    }
+
+    .bannercard{
+        background-image: url(../B10A1-Challenge-Begins/assets/handshake.jpg);
+        background-size:auto;
+        font-size: 10px;
+        color: white;
+        background-position: center;
+        margin-top: 20px;
+        margin-left: 10px;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+        padding-top: 150px;
+    }
+    .form{
+        font-size: 50px;
+        font-weight: 400px;
+        height: 300px;
+    }
+
+    .support-section{
+        text-align: center;
+    }
+     
+    .footer-side{
+        margin-top: 150px;
+        display: flex;
+        justify-content: space-around;
+    }
+    
+    .form1{
+        height: 35px;
+        width: 450px;
+    }
+
+    .form2{
+        height: 35px;
+        width: 70px;
+    }
+        
+    
+        
+    
+    
