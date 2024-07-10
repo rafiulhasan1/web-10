@@ -1,7 +1,7 @@
 .title{
     text-align: center;
     
-    background-image: url(/B10A1-Challenge-Begins-main/assets/Hero-bg.png);
+    /* background-image: url(/B10A1-Challenge-Begins-main/assets/Hero-bg.png); */
     padding: 100px;
     background-position: center ,bottom;
     
@@ -87,7 +87,7 @@
     }
 
     .bannercard{
-        background-image: url(/B10A1-Challenge-Begins-main/assets/handshake.jpg);
+        /* background-image: url(/B10A1-Challenge-Begins-main/assets/handshake.jpg); */
         background-size:auto;
         font-size: 10px;
         color: white;
